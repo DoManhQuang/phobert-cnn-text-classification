@@ -25,8 +25,7 @@ Bộ dữ liệu sử dụng "[A Large-scale Vietnamese News Text Classification
 ---
 
 **Confusion Matrix**
-<img src="https://github.com/DoManhQuang/phobert-text-classification-with-cnn/Confusion_matrix_6_class.png">
-
+![img1](https://raw.githubusercontent.com/DoManhQuang/phobert-text-classification-with-cnn/main/Confusion_matrix_6_class.png)
 ---
 
 **ROC KFold = 10**
