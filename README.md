@@ -28,7 +28,14 @@ Bộ dữ liệu sử dụng "[A Large-scale Vietnamese News Text Classification
 ![img1](https://raw.githubusercontent.com/DoManhQuang/phobert-text-classification-with-cnn/main/Confusion_matrix_6_class.png)
 ---
 
-**ROC KFold = 10**
+**ROC KFold = 5**
 
+|STT    | Score |
+|-------|-------|
+|ROC 1  | 0.9648|
+|ROC 2  | 0.5000|
+|ROC 3  | 0.9754|
+|ROC 4  | 0.9719|
+|ROC 5  | 0.5000|
 ---
 
