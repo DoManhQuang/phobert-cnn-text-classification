@@ -1,4 +1,4 @@
-# phobert-vietnamese-text-classification-with-cnn
+# vietnamese-text-classification-with-phobert-cnn
 
 Bộ dữ liệu tiếng việt sử dụng "[A Large-scale Vietnamese News Text Classification Corpus](https://github.com/duyvuleo/VNTC)"
 
